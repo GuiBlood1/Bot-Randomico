@@ -1,5 +1,5 @@
 # Bot-Randomico
-Bot para discord que cria sorteio randomico de números , passados por argumentos
+Bot para discord que cria sorteios randomicos de números , passados por argumentos
 
 Por enquanto só existe um comando o comando !sorteio
 
